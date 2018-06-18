@@ -1,3 +1,6 @@
+## Tutorial link
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
 ## Setup (Instructions for Mac)
 Install Homebrew:
 ```bash
@@ -25,3 +28,7 @@ Install dependencies: `pipenv install`
 To leave the virtual environment, use `exit`
 
 To start the virtual environment again, use `pipenv shell`
+
+## Run
+Use `flask run`
+
